@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Yogab15
-- 👀 I’m interested in Web Development 
+- 👋 Hi, I’m Yogada!
+- 👀 I’m interested in Web Development and Designing 
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
