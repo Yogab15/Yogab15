@@ -4,7 +4,7 @@
 - 👨‍💻 All my projects are available at https://github.com/Yogab15 
 - 📫 How to reach me: https://www.linkedin.com/in/yogada-bhalerao-a1072a22b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 📫 Email : yogadabhalerao@gmail.com
-- ⚡ Resume
+- ⚡ Resume : https://drive.google.com/file/d/1BEBOpLF6w1MvS1MJIPGA-DZBKuXGFElC/view?usp=drive_link
 - 
 <!---
 Yogab15/Yogab15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
